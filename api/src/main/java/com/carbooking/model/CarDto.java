@@ -1,9 +1,7 @@
 package com.carbooking.model;
 
-import org.hibernate.validator.constraints.UniqueElements;
-
-import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
+
 
 public class CarDto {
 
